@@ -1,0 +1,14 @@
+btnFacebook = UI_CreateCompent(frmMinimap, BUTTON_TYPE, "btnFacebook", 24, 24, 0, 180)
+UI_LoadButtonImage(btnFacebook, "texture/mods/pkodev.mod.social/social.png", 24, 24, 0, 0, FALSE )
+
+btnDiscord = UI_CreateCompent(frmMinimap, BUTTON_TYPE, "btnDiscord", 24, 24, 28, 180)
+UI_LoadButtonImage(btnDiscord, "texture/mods/pkodev.mod.social/social.png", 24, 24, 24, 0, FALSE )
+
+btnYoutube = UI_CreateCompent(frmMinimap, BUTTON_TYPE, "btnYoutube", 24, 24, 56, 180)
+UI_LoadButtonImage(btnYoutube, "texture/mods/pkodev.mod.social/social.png", 24, 24, 48, 0, FALSE )
+
+btnTwitch = UI_CreateCompent(frmMinimap, BUTTON_TYPE, "btnTwitch", 24, 24, 84, 180)
+UI_LoadButtonImage(btnTwitch, "texture/mods/pkodev.mod.social/social.png", 24, 24, 72, 0, FALSE )
+
+btnTwitter = UI_CreateCompent(frmMinimap, BUTTON_TYPE, "btnTwitter", 24, 24, 112, 180)
+UI_LoadButtonImage(btnTwitter, "texture/mods/pkodev.mod.social/social.png", 24, 24, 96, 0, FALSE )
