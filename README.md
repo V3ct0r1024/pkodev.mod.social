@@ -1,4 +1,4 @@
-[![PKOdev.NET](https://pkodev.net/uploads/monthly_2022_02/logo-background.png.d7a190633d23e60fbfdfb9340726ba82.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
+[![PKOdev.NET](https://a.radikal.ru/a07/2202/b6/64077957c2ec.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
 ## TOP/PKO/KOP mod: pkodev.mod.social
 The mod allows to add social buttons to the game, by clicking on which the player will be redirected to the corresponding resource on the Internet using the URL specified in the mod settings, for example, to the Discord server, to the Youtube channel, to the Facebook group. Modification for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)**.
 
